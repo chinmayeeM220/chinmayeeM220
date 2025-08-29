@@ -31,17 +31,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayeemaharana&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayeemaharana&layout=compact&theme=tokyonight)  
-![Streak Stats](https://streak-stats.demolab.com?user=chinmayeemaharana&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 - **Email:** chinmayeem220@gmail.com  
 - **LinkedIn:** [[linkedin.com/in/chinmayee-maharana](https://www.linkedin.com/in/chinmayee-maharana-2222a5289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
-- ]  
+- 
 
 ---
 
