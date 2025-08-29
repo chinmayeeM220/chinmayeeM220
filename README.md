@@ -1,5 +1,4 @@
-  <!-- Animated Welcome Banner -->
-![Welcome Banner](./banner.svg)
+
 
 # Hi, I'm Chinmayee Maharana 👋  
 
@@ -10,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🌱 Currently learning **Machine Learning** and exploring **Generative AI**.  
 - 💡 Passionate about **solving real-time problems** through AI-powered solutions.  
-- 🔭 Interested in **Computer Vision**, **Recommendation Engines**, and **Cloud ML**.  
+- 🔭 Interested in **Data Science**, **Recommendation Engines**.  
 - 🎯 Goal: Build intelligent, scalable, and production-ready ML applications.  
 
 ---
@@ -41,8 +40,8 @@
 
 ## 🌐 Connect With Me
 - **Email:** chinmayeem220@gmail.com  
-- **LinkedIn:** [linkedin.com/in/chinmayee-maharana](#)  
-- **Portfolio:** [Your Portfolio Link]  
+- **LinkedIn:** [[linkedin.com/in/chinmayee-maharana](https://www.linkedin.com/in/chinmayee-maharana-2222a5289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
+- ]  
 
 ---
 
