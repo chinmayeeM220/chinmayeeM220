@@ -1,114 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chinmayee%20Maharana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MLOps%20Engineer%20%7C%20Building%20Scalable%20ML%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Chinmayee%20Maharana&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=MLOps%20Engineer%20%E2%80%A2%20Making%20ML%20Actually%20Ship%20to%20Production&descAlignY=60&descSize=17&descColor=a8b2d8&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmayee-maharana-2222a5289)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmayeeM220)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayeem220@gmail.com)
+<a href="https://www.linkedin.com/in/chinmayee-maharana-2222a5289">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/chinmayeeM220">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:chinmayeem220@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=chinmayeeM220&label=Profile+Views&color=00d4ff&style=flat" alt="profile views"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-```python
-class MLOpsEngineer:
-    def __init__(self):
-        self.name       = "Chinmayee Maharana"
-        self.degree     = "B.Tech CSE @ Parala Maharaja Engineering College (BPUT)"
-        self.batch      = "2023 – 2027"
-        self.focus      = ["MLOps Pipelines", "Cloud Infrastructure", "Model Deployment"]
-        self.currently  = "Building end-to-end ML systems that actually go to production 🚀"
+### 👩‍💻 &nbsp;Who am I?
 
-    def mission(self):
-        return "Bridge the gap between ML research and reliable, scalable production systems."
+```yaml
+name: Chinmayee Maharana
+location: Odisha, India
+college: Parala Maharaja Engineering College (BPUT)
+degree: B.Tech — Computer Science & Engineering
+batch: 2023 – 2027
+role: MLOps Engineering Student
+
+focused_on:
+  - End-to-End ML Pipelines
+  - Cloud-Native Deployments
+  - CI/CD for Machine Learning
+  - Model Monitoring & Observability
+
+currently_learning:
+  - Advanced Kubernetes Patterns
+  - Feature Stores & Data Engineering
+  - LLMOps
+
+fun_fact: >
+  I automate pipelines so models
+  don't just live in notebooks 🚀
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Featured Projects
 
-### 🔍 Sentiment Analysis — End-to-End MLOps Pipeline
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *Automating the full lifecycle of an NLP model from data versioning to live monitoring*
+### 🔍 Sentiment Analysis MLOps Pipeline
 
-| Layer | Tools Used |
-|-------|-----------|
-| 📦 Data Versioning | DVC, AWS S3 |
-| 🧪 Experiment Tracking | MLflow |
-| 🐳 Containerization | Docker |
-| ☁️ Cloud Infra | AWS EC2, ECR, EKS |
-| 🔁 CI/CD | GitHub Actions |
-| 📊 Monitoring | Prometheus, Grafana |
+<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-NLP%20%2B%20MLOps-blue?style=flat-square"/>
+
+A full end-to-end MLOps pipeline for sentiment classification with automated retraining, containerized serving, and live monitoring dashboards.
+
+**Stack:**
+`MLflow` `DVC` `Docker` `GitHub Actions`
+`AWS EKS` `ECR` `EC2` `S3`
+`Prometheus` `Grafana`
 
 **Highlights:**
-- Automated model retraining pipeline triggered on data drift
-- Containerized model serving with Docker + REST API
-- Kubernetes (EKS) deployment with auto-scaling
-- Real-time performance monitoring with Prometheus & Grafana dashboards
+- ⚡ Automated retraining on data drift detection
+- 📦 Containerized model serving via REST API
+- 🌀 Kubernetes (EKS) with auto-scaling
+- 📊 Real-time monitoring with Grafana dashboards
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🚗 Vehicle Insurance Prediction — ML Pipeline with CI/CD
+### 🚗 Vehicle Insurance Prediction
 
-> *Production-ready ML pipeline for insurance risk prediction*
+<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Classification-orange?style=flat-square"/>
 
-| Layer | Tools Used |
-|-------|-----------|
-| 📦 Data Versioning | DVC, AWS S3 |
-| 🗄️ Database | MongoDB |
-| ☁️ Cloud Infra | AWS EC2, ECR |
-| 🔁 CI/CD | GitHub Actions |
+Production-ready ML pipeline for vehicle insurance risk prediction with fully automated CI/CD, cloud deployment, and versioned data pipelines.
+
+**Stack:**
+`DVC` `MongoDB` `GitHub Actions`
+`AWS EC2` `ECR` `S3`
 
 **Highlights:**
-- End-to-end pipeline from raw data ingestion to model deployment
-- MongoDB as feature store with S3 backup
-- Fully automated CI/CD with GitHub Actions — push to deploy
-- Model artifacts versioned with DVC for reproducibility
+- 🗄️ MongoDB as feature store with S3 backup
+- 🔁 Push-to-deploy with GitHub Actions CI/CD
+- 📌 Full model & data versioning with DVC
+- ☁️ Scalable deployment on AWS EC2
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 **MLOps & ML**
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Monitoring**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AWS Services**
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
 
 </div>
 
@@ -118,37 +151,73 @@ class MLOpsEngineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinmayeeM220&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayeeM220&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chinmayeeM220&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayeeM220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chinmayeeM220&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
+</div>
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chinmayeeM220&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayeeM220&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chinmayeeM220&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1"/>
 </div>
 
 ---
 
 ## 🎓 Education
 
-| 🏫 College | 📚 Degree | 🗓️ Batch |
-|---|---|---|
-| Parala Maharaja Engineering College | B.Tech — Computer Science & Engineering (BPUT) | 2023 – 2027 |
-
----
-
-## 📬 Let's Connect
-
 <div align="center">
 
-| Platform | Link |
-|---------|------|
-| 📧 Email | [chinmayeem220@gmail.com](mailto:chinmayeem220@gmail.com) |
-| 💼 LinkedIn | [chinmayee-maharana-2222a5289](https://www.linkedin.com/in/chinmayee-maharana-2222a5289) |
-| 🐙 GitHub | [chinmayeeM220](https://github.com/chinmayeeM220) |
-
-*Open to internships, collaborations, and MLOps discussions!*
+| 🏫 Institution | 📚 Degree | 📅 Batch |
+|:---|:---|:---|
+| Parala Maharaja Engineering College | B.Tech — CSE (BPUT University) | 2023 – 2027 |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
- 
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+If you're working on something in the MLOps space — pipelines, deployments, cloud infra — let's talk!
+
+<br/>
+
+<a href="https://www.linkedin.com/in/chinmayee-maharana-2222a5289">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:chinmayeem220@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/chinmayeeM220">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*Open to internships, research collaborations & MLOps discussions!* ✨
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=00d4ff&fontAlignY=65" width="100%"/>
+
+</div>
 
